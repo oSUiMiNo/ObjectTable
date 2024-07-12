@@ -1,0 +1,16 @@
+{
+    "name": "ObjectTable",
+    "rootNamespace": "",
+    "references": [
+        "GUID:93a80670cd9e14ba4a95c4d94d46b5b7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
